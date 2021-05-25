@@ -37,7 +37,6 @@ let cleanUp = (array) => {
     }  
     finalArray.push(sortedNumberArray);
     finalArray.push(sortedStringArray);
-    console.log(finalArray);
     return finalArray;
 };
 
